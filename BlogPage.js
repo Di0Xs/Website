@@ -1,7 +1,7 @@
 //document.getElementById("Post").value = "Fifth Avenue, New York City";
 
 const Blog = () => {
-
+    var temp = 0;
 
     const Submit = () => {
 
