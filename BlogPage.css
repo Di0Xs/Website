@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home button {
+    width: 150px;
+    height: 50px;
+    background: none;
+    border: none;
+    color: whitesmoke;
+    font-size: 20px;
+    background: rgb(45, 117, 96);
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.Text p {
+    max-width: 200px;
+    word-wrap: break-word;
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    display: inline-block;
+    position: relative;
+    top: -330px;
+    left: 500px;
+}
