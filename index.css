@@ -3,7 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-.buttons * {
+
+.home * {
     width: 150px;
     height: 50px;
     background: none;
